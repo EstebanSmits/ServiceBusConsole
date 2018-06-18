@@ -1,0 +1,11 @@
+D:\Repository\ServiceBusConsole\ServiceBusConsole\bin\Debug\netcoreapp2.0\ServiceBusConsole.deps.json
+D:\Repository\ServiceBusConsole\ServiceBusConsole\bin\Debug\netcoreapp2.0\ServiceBusConsole.runtimeconfig.json
+D:\Repository\ServiceBusConsole\ServiceBusConsole\bin\Debug\netcoreapp2.0\ServiceBusConsole.runtimeconfig.dev.json
+D:\Repository\ServiceBusConsole\ServiceBusConsole\bin\Debug\netcoreapp2.0\ServiceBusConsole.dll
+D:\Repository\ServiceBusConsole\ServiceBusConsole\obj\Debug\netcoreapp2.0\ServiceBusConsole.csprojAssemblyReference.cache
+D:\Repository\ServiceBusConsole\ServiceBusConsole\obj\Debug\netcoreapp2.0\ServiceBusConsole.csproj.CoreCompileInputs.cache
+D:\Repository\ServiceBusConsole\ServiceBusConsole\obj\Debug\netcoreapp2.0\ServiceBusConsole.AssemblyInfoInputs.cache
+D:\Repository\ServiceBusConsole\ServiceBusConsole\obj\Debug\netcoreapp2.0\ServiceBusConsole.AssemblyInfo.cs
+D:\Repository\ServiceBusConsole\ServiceBusConsole\bin\Debug\netcoreapp2.0\ServiceBusConsole.pdb
+D:\Repository\ServiceBusConsole\ServiceBusConsole\obj\Debug\netcoreapp2.0\ServiceBusConsole.dll
+D:\Repository\ServiceBusConsole\ServiceBusConsole\obj\Debug\netcoreapp2.0\ServiceBusConsole.pdb
